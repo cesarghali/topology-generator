@@ -1,0 +1,13 @@
+{
+	"topologies": "number of generated topologoes",
+	"plot": "True/False, plot topology to pdf",
+	"dimensions": "e.g. 10x10",
+	"routers": "number of routers",
+	"router-links": "routers links, e.g. 2 or 1-2",
+	"clients": "number of clients",
+	"client-links": "number of each client links, e.g. 2 or 1-2",
+	"servers": "number of producers",
+	"server-links": "number of each server links, e.g. 2 or 1-2",
+	"channels": "number of channels",
+	"channel-rates": "list of channel rate, e.g. 10,100,1000"
+}
