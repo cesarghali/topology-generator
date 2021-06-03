@@ -360,7 +360,7 @@ def main(argv):
             pdf.savefig(fig)
             pdf.close()
 
-            fn = fn + 1
+        fn = fn + 1
 
 
 # nearestN returns a list of the N nearest node indexes along with their
